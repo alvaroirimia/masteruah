@@ -23,3 +23,10 @@
 |   11    |  etc  |  etc.  |
 
 
+## Compañeros de clase
+
+| Nombre | Github |
+| ------- | ----- | 
+|  Carolina  |  [Cuenta github](https://github.com/CarolM2) | 
+|  Jose    |  [Cuenta github](https://github.com/Josemariabordes) | 
+| Miguel  |  [Cuenta github](https://github.com/migrodloz) |
